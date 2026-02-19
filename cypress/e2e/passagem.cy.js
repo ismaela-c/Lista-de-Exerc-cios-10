@@ -73,6 +73,6 @@ describe('BlazeDemo - Fluxo Completo de Compra', () => {
     
      cy.get('h1')
         .should('have.text','Thank you for your purchase today!')
-    
+  
   })
 })
