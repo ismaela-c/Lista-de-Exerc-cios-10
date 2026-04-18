@@ -1,5 +1,3 @@
-Lista de Exercícios 10
-
 - Teste Automação WEB com Cypress
 
 Este projeto contém a implementação de um teste automatizado 
@@ -11,3 +9,6 @@ site de demonstração BlazeDemo.
 Automatizar o fluxo completo de simulação de compra de uma 
 passagem aérea no site BlazeDemo (https://blazedemo.com), validando todas as etapas 
 do processo por meio de asserções relevantes.
+
+- Execução
+  https://www.loom.com/share/e0319ed0c6cf4006adaac77c0740b426
